@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "Circe";
+  src: url("../font/Circe/Circe-Bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Circe";
+  src: url("../font/Circe/Circe-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Circe";
+  src: url("../font/Circe/Circe-ExtraBold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 800;
+}
+@font-face {
+  font-family: "Halvar Breitschrift";
+  src: url("../font/Halvar/HalvarBreit-Bd.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Halvar Breitschrift";
+  src: url("../font/Halvar/HalvarBreit-XBd.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 800;
+}
